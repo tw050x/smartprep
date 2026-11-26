@@ -1,3 +1,8 @@
+> **This repository has moved.** Development continues in
+> [tw050x/smartsuite](https://github.com/tw050x/smartsuite), under
+> [`apps/smartprep`](https://github.com/tw050x/smartsuite/tree/master/apps/smartprep), with this repository's
+> history. This one is kept for its earlier releases and is no longer updated.
+
 # SmartPrep
 
 A Mac app for preparing for interviews, and for learning about anything unfamiliar, with your own
